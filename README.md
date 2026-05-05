@@ -74,6 +74,3 @@ print ( "this is the sum" ) ;
 - This is a learning project and not a full compiler.
 - The included `src code.txt` currently contains syntax errors; edit it for a clean run.
 
-## License
-
-Add your preferred license before publishing.
