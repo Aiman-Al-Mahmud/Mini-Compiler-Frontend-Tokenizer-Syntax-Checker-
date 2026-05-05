@@ -1,0 +1,13 @@
+int x = 10 ;
+int y = 20 
+098n=60;
+int sum = x + y ;
+folt z= 3.0;
+k * = y /x
+//print value
+print ( sum ) ;
+print ( "this is the sum"");
+
+for(int i=0,i<=10;i++){
+    print("hi");
+}
